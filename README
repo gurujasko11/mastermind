@@ -11,7 +11,7 @@ Run:
     ./src/mastermind
 
 Help:
-    ./src/mastermind -- help
+    ./src/mastermind --help
 
 Tests:
     ./test/runTests
