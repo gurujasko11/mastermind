@@ -1,0 +1,17 @@
+© 2022 Jan Markiewicz <markiewicz.janex@gmail.com>
+
+This is implementation of board game Mastermind. Rules and other details here:
+https://en.wikipedia.org/wiki/Mastermind_(board_game)
+
+Build:
+    cmake CMakeLists.txt
+    make
+
+Run:
+    ./src/mastermind
+
+Help:
+    ./src/mastermind -- help
+
+Tests:
+    ./test/runTests
